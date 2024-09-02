@@ -1,0 +1,7 @@
+gd_density_all=0.009
+gd_density_catch=0.009
+height_sim_start=3e-10
+height_free=2.5579585286665513e-09
+height_minimum=5.1e-10
+h=5e-09
+NV_density=0.001
